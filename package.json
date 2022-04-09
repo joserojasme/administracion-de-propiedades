@@ -21,7 +21,7 @@
     "date-fns": "^2.0.0-beta.5",
     "faker": "^4.1.0",
     "fullcalendar-reactwrapper": "^1.0.7",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "prop-types": "^15.7.2",
     "react": "^16.8.4",
     "react-big-calendar": "^0.22.1",
